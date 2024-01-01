@@ -1,3 +1,5 @@
+Hosted Link https://gopalgod123.github.io/Super-Hero-Hunter/
+
 Super Hero Hunter
 Super Hero Hunter is a web application that allows users to explore and discover information about their favorite superheroes from the Marvel universe. Powered by the Marvel API, users can search for characters, view their details, and even add them to their favorites list.
 
